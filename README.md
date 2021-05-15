@@ -87,7 +87,9 @@ complete -F __start_kubectl k
 
 ## Enjoy your k8s journey
 
-It is time to play with k8s, recommended tasks:
+It is time to play with k8s, I had designed some steps to let you hand on k8s in `/steps` folder, feel free to explore them :-)
+
+If you want to learn more, I would recommend you go to the official document site to finish the tasks:
 
 - https://kubernetes.io/docs/tasks/configure-pod-container/
 - https://kubernetes.io/docs/tasks/manage-kubernetes-objects/
@@ -96,5 +98,7 @@ It is time to play with k8s, recommended tasks:
 - https://kubernetes.io/docs/tasks/run-application/
 - https://kubernetes.io/docs/tasks/job/
 
-Get more tasks at https://kubernetes.io/docs/tasks/
+You may try more tasks at https://kubernetes.io/docs/tasks/
+
+Happy coding!
 
