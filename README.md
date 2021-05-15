@@ -8,7 +8,7 @@ My name is Toby Qin, I am a DevOps engineer works with containerization technolo
 
 Welcome follow me on [github](https://github.com/tobyqin).
 
-## Introducing k8s
+## Introducing kubernetes
 
 - https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/
 - https://kubernetes.io/docs/tutorials/kubernetes-basics/
